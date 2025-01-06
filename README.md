@@ -4,7 +4,8 @@ Download and seed torrent in terminal.
 
 Very simple script quickly written. Might update with more features later but this gets the job done. 
 
-![Screenshot 2025-01-06 052743](https://github.com/user-attachments/assets/6f0e6881-0bf1-486b-8bfe-d9b0cf1c5d97)
+![Screenshot 2025-01-06 052743](https://github.com/user-attachments/assets/bd3d83af-0bc7-4417-b330-075a6222a261)
+
 
 ### Seeding
 
