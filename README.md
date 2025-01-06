@@ -7,7 +7,7 @@ Very simple script quickly written. Might update with more features later but th
 ![Screenshot 2025-01-06 052743](https://github.com/user-attachments/assets/bd3d83af-0bc7-4417-b330-075a6222a261)
 
 ### Install libtorrent 
-`sudo apt install python-libtorrent`
+`sudo apt install python3-libtorrent`
 
 ### Downloading
 
